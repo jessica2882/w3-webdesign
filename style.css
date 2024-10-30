@@ -1,0 +1,23 @@
+/* TODO */
+body{
+background-color: white;
+font font-family: sans-serif;
+}
+.button{
+    padding:20px 40px 20px 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 5px solid #cd24c1;
+    border-radius: 25px;
+    background-color: rgb(231, 95, 231);
+    color: white;
+    font-size: 30px;
+    text-align:center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.button:hover{
+    background-color: #7e2b7e;
+    border-color: #804b80;
+}
